@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color:aquamarine;
+    color: #FFD300;
+}
+header{
+    border: 10px double #FFD300;
+}
+h1{
+    border: 10px double #1240AB;
+}
+p{
+    color: black;
+    font-size: large;
+
+}
+main img {
+    border: 5px dotted #FF7400;
+}
+footer img{
+    background-color: white;
+    border-radius: 5px;
+}
+
